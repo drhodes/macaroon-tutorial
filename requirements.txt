@@ -1,0 +1,7 @@
+# JupyterLite core (build-time only)
+jupyterlite-core==0.7.1
+jupyterlab~=4.5.1
+notebook~=7.5.1
+
+# Python kernel via Pyodide (provides numpy, matplotlib at runtime)
+jupyterlite-pyodide-kernel==0.7.0

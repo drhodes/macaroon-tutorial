@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-03-06T23:37:43.884198Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-02-20T20:35:40.485687Z",
+      "mimetype": null,
+      "name": "christmas_tree_disposal.ipynb",
+      "path": "christmas_tree_disposal.ipynb",
+      "size": 14189,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-03-06T23:45:22.376695Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-06T23:42:53.955323Z",
+      "mimetype": null,
+      "name": "macaroons_tutorial.ipynb",
+      "path": "macaroons_tutorial.ipynb",
+      "size": 7768,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-03-07T00:00:59.689615Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-06T23:59:44.472182Z",
+      "mimetype": null,
+      "name": "macaroons_lab.ipynb",
+      "path": "macaroons_lab.ipynb",
+      "size": 32102,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-03-07T00:00:59.689615Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-03-07T00:00:59.689615Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
