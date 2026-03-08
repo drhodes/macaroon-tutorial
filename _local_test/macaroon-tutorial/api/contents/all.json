@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-03-06T23:37:43.884198Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-02-20T20:35:40.485687Z",
+      "mimetype": null,
+      "name": "christmas_tree_disposal.ipynb",
+      "path": "christmas_tree_disposal.ipynb",
+      "size": 14189,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-03-07T22:12:31.341222Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-07T00:14:46.002317Z",
+      "mimetype": null,
+      "name": "macaroons_lab.ipynb",
+      "path": "macaroons_lab.ipynb",
+      "size": 45389,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-03-08T01:06:24.235325Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-03-08T01:06:24.235325Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
